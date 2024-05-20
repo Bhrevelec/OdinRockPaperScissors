@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background-color: #f8f6e3;
+  text-align: center;
+}
+
+button {
+  background-color: #ffc470;
+  border-color: #8b322c;
+  border-width: 2px;
+  margin: 5px;
+}
+
+h1 {
+  color: #8b322c;
+  margin-bottom: 40px;
+}
+
+#resultContainer {
+  margin-top: 40px;
+}
